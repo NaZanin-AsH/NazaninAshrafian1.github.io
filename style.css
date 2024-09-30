@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.image-container {
+    position: relative;
+    width: 300px;
+    /* Set a fixed width for the image container */
+}
+
+.img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+    /* Smooth transition effect */
+}
+
+.img:first-child {
+    opacity: 1;
+}
+
+.image-container:hover .img:first-child {
+    opacity: 0;
+}
+
+.image-container:hover .img:nth-child(2) {
+    opacity: 1;
+}
+
+.image-container:hover .img:nth-child(3) {
+    opacity: 0;
+}
+
+.image-container:hover .img:nth-child(2):hover {
+    opacity: 0;
+}
+
+.image-container:hover .img:nth-child(3):hover {
+    opacity: 1;
+}
