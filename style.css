@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 body {
     font-family: Arial, sans-serif;
 }
@@ -43,6 +44,8 @@ body {
 .image-container:hover .img:nth-child(3):hover {
     opacity: 1;
 =======
+=======
+>>>>>>> origin/main
 body {
     font-family: Arial, sans-serif;
 }
@@ -86,5 +89,8 @@ body {
 
 .image-container:hover .img:nth-child(3):hover {
     opacity: 1;
+<<<<<<< HEAD
 >>>>>>> f04ff11 (indexhtml-commit)
+=======
+>>>>>>> origin/main
 }

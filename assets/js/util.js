@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 (function($) {
 
 	/**
@@ -586,6 +587,8 @@
 	};
 
 =======
+=======
+>>>>>>> origin/main
 (function($) {
 
 	/**
@@ -1172,5 +1175,8 @@
 
 	};
 
+<<<<<<< HEAD
 >>>>>>> f04ff11 (indexhtml-commit)
+=======
+>>>>>>> origin/main
 })(jQuery);

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -31,6 +32,8 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 =======
+=======
+>>>>>>> origin/main
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -62,5 +65,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
+<<<<<<< HEAD
 >>>>>>> f04ff11 (indexhtml-commit)
+=======
+>>>>>>> origin/main
 		Responsive Tools (github.com/ajlkn/responsive-tools)
